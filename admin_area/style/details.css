@@ -1,0 +1,41 @@
+
+
+
+#single_product1 h3{
+	text-align: center;
+	float: middle;
+}
+#single_product1{
+	/*margin: auto;*/
+	margin-left: 70px;
+	width: 46%;
+	background: #F0F8FF;
+	float: left;
+	height: 524px;
+}
+
+#single_product1 img{
+	/*width:400px;*/
+	width:550px;
+	 height:500px;
+
+}
+#details_box {
+	width: 48%;
+    float: right;
+    /*margin-right: 149px;*/
+   
+    /*width: 35.1%;*/
+    /*width: 400px;*/
+    height: 524px;
+    text-align: center;
+    background: #F0F8FF;
+    padding: 94px;
+    line-height: 35px;
+
+}
+
+#dP{
+	margin-top: 15px;
+}
+
